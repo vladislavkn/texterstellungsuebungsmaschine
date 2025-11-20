@@ -1,1 +1,11 @@
-/go.mod
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary built by `go test -c`
+*.test
+
+# Coverage output from `go test -coverprofile`
+coverage.out
